@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "871511627309",
+    "firebase_url": "https://random-question-34523.firebaseio.com",
+    "project_id": "random-question-34523",
+    "storage_bucket": "random-question-34523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871511627309:android:19bb5d9aac47067b",
+        "android_client_info": {
+          "package_name": "com.social_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871511627309-d076ha9v1i87qqelhfjob6qj3oi77ouq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.social_signin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "871511627309-0hdhsjjavqqh4kpkhqr257kbvcruh89g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_zJ4AtLN8yV9QjvINyyqfiLqc0SXoX_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871511627309-0hdhsjjavqqh4kpkhqr257kbvcruh89g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
